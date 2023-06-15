@@ -1,0 +1,19 @@
+<resources>
+    <!-- IDs -->
+    <item name="todoListView" type="id" />
+    <item name="todoEditText" type="id" />
+    <item name="todoInputLayout" type="id" />
+    <item name="urgentSwitch" type="id" />
+    <item name="addButton" type="id" />
+    <item name="todoTextView" type="id" />
+
+    <!-- Strings -->
+    <string name="app_name">To Do App</string>
+    <string name="hint_todo">Type Here</string>
+    <string name="button_add">Add</string>
+    <string name="dialog_delete_title">Do you want to delete this?</string>
+    <string name="dialog_delete_message">The selected row is:</string>
+    <string name="dialog_delete_positive_button">Delete</string>
+    <string name="dialog_delete_negative_button">Cancel</string>
+    <string name="urgent">Urgent</string>
+</resources>

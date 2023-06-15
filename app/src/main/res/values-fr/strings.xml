@@ -1,0 +1,18 @@
+<resources>
+    <!-- IDs -->
+    <item name="todoListView" type="id" translatable="false" />
+    <item name="todoEditText" type="id" translatable="false" />
+    <item name="urgentSwitch" type="id" translatable="false" />
+    <item name="addButton" type="id" translatable="false" />
+    <item name="todoTextView" type="id" translatable="false" />
+
+    <!-- Strings -->
+    <string name="app_name" translatable="false">Application de Tâches</string>
+    <string name="hint_todo" translatable="false">Tapez ici</string>
+    <string name="button_add" translatable="false">Ajouter</string>
+    <string name="dialog_delete_title" translatable="false">Voulez-vous supprimer ceci ?</string>
+    <string name="dialog_delete_message" translatable="false">La ligne sélectionnée est :</string>
+    <string name="dialog_delete_positive_button" translatable="false">Supprimer</string>
+    <string name="dialog_delete_negative_button" translatable="false">Annuler</string>
+    <string name="urgent">urgente</string>
+</resources>
